@@ -1,3 +1,3 @@
 # patterns
 
-The JS examples of patterns using
+### The JS examples of patterns using
