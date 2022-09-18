@@ -1,1 +1,3 @@
-console.log('Works');
+import { ShippingExample } from "./strategy/shipping";
+
+new ShippingExample();
