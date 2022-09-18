@@ -1,0 +1,24 @@
+{
+  "name": "patterns",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OscarWebCode/patterns.git"
+  },
+  "author": "OscarWeb",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/OscarWebCode/patterns/issues"
+  },
+  "homepage": "https://github.com/OscarWebCode/patterns#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.20",
+    "ts-node": "^10.9.1",
+    "typescript": "^4.8.3"
+  }
+}
